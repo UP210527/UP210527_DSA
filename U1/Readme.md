@@ -12,3 +12,6 @@
 
 # *TICKET*
 ![Image text](https://github.com/UP210527/UP210527_DSA/blob/main/U1/ticket..png)
+
+# *BISECCION*
+! [Texto de la imagen] (https://github.com/UP210527/UP210527_DSA/blob/main/U1/biseccion.png)
