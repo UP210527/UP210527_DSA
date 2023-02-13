@@ -11,7 +11,8 @@
 ![Image text](https://github.com/UP210527/UP210527_DSA/blob/main/U1/palidromo.png)
 
 # *TICKET*
-![Image text](https://github.com/UP210527/UP210527_DSA/blob/main/U1/ticket..png)
+![Image text](https://github.com/UP210527/UP210527_DSA/blob/main/U1/ticket%20mejorado.png)
 
 # *BISECCION*
-! [Texto de la imagen] (https://github.com/UP210527/UP210527_DSA/blob/main/U1/biseccion.png)
+![Image text](https://github.com/UP210527/UP210527_DSA/blob/main/U1/biseccion.png)
+
