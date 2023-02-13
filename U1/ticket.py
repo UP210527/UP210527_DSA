@@ -9,3 +9,14 @@ if(E>P):
     print("Tu cambio es de: ", s)
 else:
     print("TE FALTA VARO CARNAL")
+
+print("-----------------------------------")
+
+H=0
+S=int(input("Con cuanto dinero cuentas: "))
+while S > H:
+    H= H+1
+    S= S-1
+    S= S-H
+print("Te alcanza para ",H," boletos")
+print("Te sobra: $ ", S)
